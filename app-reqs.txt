@@ -1,0 +1,11 @@
+# Discord Bot Tutorial
+
+## 1. Preparation
+
+Before you can start coding, you need to have five things.
+
+ - A Discord account
+ - A Discord server that you have permissions to connect bots.
+ - A Discord application
+ - A Discord bot with a token
+ - Permission granted in your server for the bot to read/write messages
